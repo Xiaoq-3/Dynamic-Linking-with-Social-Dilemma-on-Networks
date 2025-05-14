@@ -404,8 +404,8 @@ def softmax(x):
 
 
 if __name__ == '__main__':
-    simStart = 10
-    Nsim = 10
+    simStart = 1
+    Nsim = 100
 
     tStart = 0
     T = 200000
@@ -419,8 +419,6 @@ if __name__ == '__main__':
 
     Nagent = 100
     roundsG = 1500
-    
-    #for roundsG in [1000, 1500, 2000]:
     
     Prob0 = 0.5
     Prob1 = 0.1
