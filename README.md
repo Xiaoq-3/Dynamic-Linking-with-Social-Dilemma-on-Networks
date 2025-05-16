@@ -1,1 +1,1 @@
-# Dynamic-Linking-with-Social-Dilemma-on-Networks
+# Dynamic Linking with Social Dilemma on Networks
